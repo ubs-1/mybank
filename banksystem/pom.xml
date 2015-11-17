@@ -11,7 +11,7 @@
 	<dependency>
  	<groupId>junit</groupId>
  	<artifactId>junit</artifactId>
-  	<version>4.11</version>
+   	<version>4.11</version>
   	</dependency>
 </dependencies>
 <build>
@@ -39,7 +39,7 @@
     </pluginManagement>
   </build>	
 
-<!--Cobertura plugin Configuration  -->
+<!--Cobertura plugin Configuration -->
 <reporting>
     <plugins>
       <plugin>
