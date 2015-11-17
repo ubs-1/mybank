@@ -39,7 +39,7 @@
     </pluginManagement>
   </build>	
 
-<!--Cobertura plugin Configuration-->
+<!--Cobertura plugin Configuration---->
 <reporting>
     <plugins>
       <plugin>
