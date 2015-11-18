@@ -3,6 +3,7 @@ package main.java.com.MyBank;
 /**
  * The Calculator class provides static methods for
  *  arithmetic operations on two integers.
+ *  Test
  */
 public class Calculator {
    public static int add(int number1, int number2) {
