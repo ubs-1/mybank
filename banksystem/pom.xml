@@ -68,4 +68,5 @@
       <url>http://ec2-52-91-99-8.compute-1.amazonaws.com:8081/nexus/content/repositories/snapshots/</url>
       <layout>default</layout>
     </snapshotRepository>
-  </distributionManagement></project>
+</distributionManagement>
+</project>
