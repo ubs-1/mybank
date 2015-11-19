@@ -30,8 +30,8 @@
           </archive>
         </configuration>
       </plugin>
-      <plugin>
-<!--        <groupId>org.jacoco</groupId>
+<!--      <plugin>
+        <groupId>org.jacoco</groupId>
         <artifactId>jacoco-maven-plugin</artifactId>
         <version>0.7.6-SNAPSHOT</version>
       </plugin> -->
