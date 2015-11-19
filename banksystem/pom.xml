@@ -30,11 +30,11 @@
           </archive>
         </configuration>
       </plugin>
-<!--      <plugin>
+      <plugin>
         <groupId>org.jacoco</groupId>
         <artifactId>jacoco-maven-plugin</artifactId>
         <version>0.7.6-SNAPSHOT</version>
-      </plugin> -->
+      </plugin>
       <plugin>
         <groupId>org.codehaus.mojo</groupId>
         <artifactId>sonar-maven-plugin</artifactId>
@@ -68,5 +68,5 @@
       <url>http://ec2-52-91-99-8.compute-1.amazonaws.com:8081/nexus/content/repositories/snapshots/</url>
       <layout>default</layout>
     </snapshotRepository>
-  </distributionManagement>
+</distributionManagement>
 </project>
